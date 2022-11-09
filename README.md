@@ -2,7 +2,7 @@ This repo shows simple structure for a large text, maybe for a novel, I think. Y
 
 context master-file 
 
-That produces master-file.pdf, but, if you want to change line spacing on footnote, I mean more line spacing in main text and less line spacing in footnotes: change line spacing on footnote independent of main text, not works on this structure (Run on environment for project?Perhaps manually?). If you found the esoteric trick, give us a hand. 
+That produces [master-file.pdf](https://github.com/ildgz/layout-context-lmtx-for-novel/blob/0941627a4de180b00d545deb428d0c721b59c2eb/master-file.pdf), but, if you want to change line spacing on footnote, I mean more line spacing in main text and less line spacing in footnotes: change line spacing on footnote independent of main text, not works on this structure (Run on environment for project?Perhaps manually?). If you found the esoteric trick, give us a hand. 
 
 **Tip** A compromise solution is set up the line spacing on footnote at the end of each chapter.
 

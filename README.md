@@ -1,4 +1,3 @@
-#README
 This repo shows simple structure for a large text, maybe for a novel, I think. You can typesetting txt files on Word, Write or gedit (using Debian here), and then copy-paste in tex files. Run ConTeXt using:
 
 context master-file 
@@ -11,9 +10,11 @@ Obviously, you don't need an Appendix file, is only a sugestion: a novel by part
 
 ToDo: change line spacing on footnote by page.
 
-##Credits
+### Credits
 [Wiki ConTeXt](https://wiki.contextgarden.net/Main_Page) powerful tool for LuaTeX (made in German).
+
 Script for [Roboto Font Family](https://fonts.google.com/?query=Roboto) was wrote by Henning Hraban Ramm.
+
 Text for example [Lorem Ipsum](https://www.lipsum.com/feed/html).
 
 
